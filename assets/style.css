@@ -1,0 +1,31 @@
+h1 {
+    color:#000000;
+    font-size: 48px;
+    font-family: GungsuhChe;
+    text-align:center;
+}
+li.silver {
+    color:silver;
+}
+li.gold {
+    color:gold
+}
+li.bronze {
+    color:brown
+}
+p{text-align:left; }
+
+#greeting {
+    display:none;
+    position: absolute;
+    left: 30%;
+    top: 30%;
+    background: #fff;
+    width: 350px;
+    height: 300px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+h2{text-align:center; }
